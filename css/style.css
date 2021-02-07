@@ -25,6 +25,8 @@ html, body, header, .view {
 .card{
     background-color: rgba(229, 229, 243, 0.2);
     border-radius: 25px;
+    backdrop-filter: blur(10px);
+
 }
 
 #text{
